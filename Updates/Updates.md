@@ -5,3 +5,4 @@
 - Added "Updates.md".
 - Switched to public repository.
 - Renamed Repository from "Hellvette-Releases" to "Hellvette".
+- Cleaned up file structure
